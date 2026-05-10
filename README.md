@@ -6,7 +6,7 @@ To generate HTML files for presentation, do `quarto render slides.ipynb --execut
 
 <p align="center">
     <img 
-        src="https://raw.githubusercontent.com/habemus-python/quarto-agh-slides/refs/heads/main/slides.gif" 
+        src="https://raw.githubusercontent.com/habemus-python/quarto-agh-slides/refs/heads/gif/slides.gif" 
         alt="slides converted to animated gif"
         width="75%"
     />
