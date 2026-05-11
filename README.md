@@ -1,4 +1,4 @@
-# 🎓 [AGH](https://www.agh.edu.pl/en) slide deck for Quarto/Jupyter/Python 🐍
+# 🎓 [AGH](https://www.agh.edu.pl/en) slide deck for [Quarto](https://quarto.org/docs/presentations/)/Jupyter/Python 🐍
 
 To use it, grab the [example `.ipynb` file](https://github.com/habemus-python/quarto-agh-slides/blob/main/slides.ipynb) and edit it with your favourite Jupyter notebook tool.
 
